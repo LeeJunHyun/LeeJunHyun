@@ -1,4 +1,4 @@
-### Hi there 👋
+![Junhyun Lee's github stats](https://github-readme-stats.vercel.app/api?username=LeeJunHyun&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs)
 
 <!--
 **LeeJunHyun/LeeJunHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
